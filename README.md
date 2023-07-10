@@ -32,5 +32,19 @@ The power is provided by a SMPS of a CRT TV( LG FLATRON 22 INCH ). SMPS is cut o
 
 ## Bluetooth module
 It provides audio signals from one of the sources (Bluetooth, Aux input, FM, SD card or USB storage). This module is powered from a separate 5V SMPS.
+<div align="center">
+<img src="Bluetooth+5V.jpg" alt="Loading..." width="500" height="250">
+</div>
 
+<hr>
 
+## Tone control circuit
+This amplifier board does not have a built in tone control circuity. The tone control circuit of another amplifier is used here.
+
+<a href="https://www.youtube.com/watch?v=9pa0eLiKwo0">
+  <img src="https://img.youtube.com/vi/9pa0eLiKwo0/0.jpg" alt="Video guide" width="320" height="180"style="max-width:100%; max-height:100%;">
+</a>
+
+<hr>
+* To keep everything cool, a fan is installed.
+* High voltage section(directly connected to mains) is separated from other parts for safety. 
