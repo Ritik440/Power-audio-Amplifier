@@ -46,6 +46,6 @@ This amplifier board does not have a built in tone control circuity. The tone co
 </a>
 </div>
 <hr>
-*To keep everything cool, a fan is installed.
 
-*High voltage section(directly connected to mains) is separated from other parts for safety. 
+* To keep everything cool, a fan is installed.
+* High voltage section(directly connected to mains) is separated from other parts for safety. 
