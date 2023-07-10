@@ -1,8 +1,11 @@
 # Power-audio-Amplifier
-This Power audio amplifier uses a class AB amplifier bassed on the transistor 2SC5200 and 2SA1943. This is a sterio board with two input and two output with recommended input supply voltage +30 0 -30 volt. The circuit board is easily available in the market.
+
 <div align="center">
 <img src="amplifier_board.png" alt="Loading..." width="400" height="400">
 </div>
+
+This Power audio amplifier uses a class AB amplifier bassed on the transistor 2SC5200 and 2SA1943. This is a sterio board with two input and two output with recommended input supply voltage +30 0 -30 volt. The circuit board is easily available in the market.
+
 
 <hr>
 
