@@ -22,9 +22,13 @@ The power is provided by a SMPS of a CRT TV( LG FLATRON 22 INCH ). SMPS is cut o
 * Two symmetrical secondary windings are wounded ( As we need symetrical supply of 30-0-30). Number of turns in winding is reduced in proportional to the original voltage(110v) and new voltage(30v).
 * Additional rectifier and capacitor is installed as an extra winding is introduced.
 * TL431 is used instead of SE110 in feedback loop.
-* 
+  
 <div align="center">
 <img src="SMPS.jpg" alt="Loading..." width="500" height="500">
 </div>
+
+<hr>
+## Bluetooth module
+It provides audio signals from one of the sources (Bluetooth, Aux input, FM, SD card or USB storage). This module is powered from a separate 5V SMPS.
 
 
