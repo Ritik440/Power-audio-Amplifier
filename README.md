@@ -28,6 +28,8 @@ The power is provided by a SMPS of a CRT TV( LG FLATRON 22 INCH ). SMPS is cut o
 </div>
 
 <hr>
+
+
 ## Bluetooth module
 It provides audio signals from one of the sources (Bluetooth, Aux input, FM, SD card or USB storage). This module is powered from a separate 5V SMPS.
 
