@@ -9,6 +9,10 @@ This Power audio amplifier uses a class AB amplifier bassed on the transistor 2S
 
 <hr>
 
+<div align="center">
+<img src="SMPS.jpg" alt="Loading..." width="500" height="500">
+</div>
+
 The power is provided by a SMPS of a CRT TV( LG FLATRON 22 INCH ). SMPS is cut out from the entire board. By default it is set to provide 110v. To change it's output voltage following modification has been done.
 * The secondary winding of switching transformer is removed without disturbing primary winding. The number of turns of secondary winding and auxiallary winding is counted.
 * Two symmetrical secondary windings are wounded ( As we need symetrical supply of 30-0-30). Number of turns in winding is reduced in proportional to the original voltage(110v) and new voltage(30v).
